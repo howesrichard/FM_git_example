@@ -1,2 +1,2 @@
-def cool_function():
-    return "This is a cool function!"
+def cool_function(adjective):
+    return f"This is a {adjective} function!"
